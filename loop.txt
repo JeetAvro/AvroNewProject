@@ -1,0 +1,27 @@
+###for loop.........
+
+for n to 1...5{
+print(n)
+}
+
+###If else Condition:
+
+var number = 10
+if number > 0 {
+	print("Number is positive.")
+} else {
+	print("Number is not positive.")
+}
+print("null.")
+
+###Switch statement:
+switch(10){
+case 1:
+print("Avro")
+break
+case 10:
+print("Anamika")
+break
+default:
+print("No name")
+}
